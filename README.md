@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Local event discovery platform**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **python,java,javascript**
 
@@ -21,4 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathvi-dp&show_icons=true&locale=en&layout=compact" alt="prathvi-dp" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathvi-dp&show_icons=true&locale=en" alt="prathvi-dp" /></p>
-
